@@ -1,0 +1,9 @@
+
+
+Open & read the CSV
+for each college in colleges
+    format the entry to have % in the spaces
+    insert ito into the URL
+    make the call
+    write the name, address to csv.
+
